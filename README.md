@@ -16,7 +16,7 @@ Python · C++ · OpenCV · ROS · IoT · TensorFlow · PyTorch · Unreal Engine 
 
 - Generative AI for VR Design — Patent Granted (2024)
 
-Robot Navigation Algorithms — IIT Bombay e-Yantra (2023)
+- Robot Navigation Algorithms — IIT Bombay e-Yantra (2023)
 
 📄 Publications
 
