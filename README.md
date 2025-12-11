@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**Lightnin-8/Lightnin-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I’m Himanshu Choudhari
 
-Here are some ideas to get you started:
+AI & Robotics Engineer specializing in Computer Vision, IoT Automation, VR Systems, and Machine Learning.
+I love building intelligent systems that combine AI + Hardware + Automation to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Skills
+
+Python · C++ · OpenCV · ROS · IoT · TensorFlow · PyTorch · Unreal Engine · VR · OpenGL
+
+🌟 Projects
+
+- Face Recognition System — OpenCV + Streamlit (2023)
+
+- Smart Home Automation — IoT + Blynk Cloud (2023)
+
+- Generative AI for VR Design — Patent Granted (2024)
+
+Robot Navigation Algorithms — IIT Bombay e-Yantra (2023)
+
+📄 Publications
+
+Machine Learning in Computer Vision — IRJET
+
+Generative AI in VR Realm Design — IJIRMP
+
+📫 Contact
+
+📧 himanshu.vc88@gmail.com
+
+🔗 https://linkedin.com/in/himanshuchoudhari
