@@ -10,7 +10,7 @@ Python · C++ · OpenCV · ROS · IoT · TensorFlow · PyTorch · Unreal Engine 
 
 🌟 Projects
 
-- Face Recognition System — OpenCV + Streamlit (2023)
+- Face Recognition System — OpenCV + LBPH + Streamlit (2023)
 
 - Smart Home Automation — IoT + Blynk Cloud (2023)
 
